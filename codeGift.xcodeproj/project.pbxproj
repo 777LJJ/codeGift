@@ -15,6 +15,7 @@
 		283A74A321D26D3900A3CD33 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 283A74A221D26D3900A3CD33 /* main.m */; };
 		283A74AE21D2856200A3CD33 /* timg-1.gif in Resources */ = {isa = PBXBuildFile; fileRef = 283A74AD21D2856200A3CD33 /* timg-1.gif */; };
 		283A74B121D2859800A3CD33 /* VCSecond.m in Sources */ = {isa = PBXBuildFile; fileRef = 283A74B021D2859800A3CD33 /* VCSecond.m */; };
+		28F5AEF72233637A00AEAA00 /* rand01.gif in Resources */ = {isa = PBXBuildFile; fileRef = 28F5AEF62233637A00AEAA00 /* rand01.gif */; };
 		28FD75CF21D5F077006C1119 /* VCThird.m in Sources */ = {isa = PBXBuildFile; fileRef = 28FD75CE21D5F077006C1119 /* VCThird.m */; };
 		28FD75D221D679DF006C1119 /* VCFourth.m in Sources */ = {isa = PBXBuildFile; fileRef = 28FD75D121D679DF006C1119 /* VCFourth.m */; };
 /* End PBXBuildFile section */
@@ -33,6 +34,7 @@
 		283A74AD21D2856200A3CD33 /* timg-1.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "timg-1.gif"; sourceTree = "<group>"; };
 		283A74AF21D2859800A3CD33 /* VCSecond.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = VCSecond.h; sourceTree = "<group>"; };
 		283A74B021D2859800A3CD33 /* VCSecond.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = VCSecond.m; sourceTree = "<group>"; };
+		28F5AEF62233637A00AEAA00 /* rand01.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = rand01.gif; sourceTree = "<group>"; };
 		28FD75CD21D5F077006C1119 /* VCThird.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = VCThird.h; sourceTree = "<group>"; };
 		28FD75CE21D5F077006C1119 /* VCThird.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = VCThird.m; sourceTree = "<group>"; };
 		28FD75D021D679DF006C1119 /* VCFourth.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = VCFourth.h; sourceTree = "<group>"; };
@@ -74,6 +76,7 @@
 				283A749621D26D3500A3CD33 /* ViewController.h */,
 				283A749721D26D3500A3CD33 /* ViewController.m */,
 				283A74AF21D2859800A3CD33 /* VCSecond.h */,
+				28F5AEF62233637A00AEAA00 /* rand01.gif */,
 				283A74B021D2859800A3CD33 /* VCSecond.m */,
 				28FD75CD21D5F077006C1119 /* VCThird.h */,
 				28FD75CE21D5F077006C1119 /* VCThird.m */,
@@ -150,6 +153,7 @@
 				283A74AE21D2856200A3CD33 /* timg-1.gif in Resources */,
 				283A749D21D26D3900A3CD33 /* Assets.xcassets in Resources */,
 				283A749B21D26D3500A3CD33 /* Main.storyboard in Resources */,
+				28F5AEF72233637A00AEAA00 /* rand01.gif in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
